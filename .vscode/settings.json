@@ -1,0 +1,55 @@
+{
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": "keyword.mnemonic.arm",
+                "settings": {
+                    "foreground": "#4CAEAE",
+                    "fontStyle": "bold"
+                }
+            },
+            {
+                "scope": "comment.line.arm",
+                "settings": {
+                    "foreground": "#7EC699",
+                    "fontStyle": "italic"
+                }
+            },
+            {
+                "scope": "variable.register.arm",
+                "settings": {
+                    "foreground": "#68A9EB",
+                    "fontStyle": ""
+                }
+            },
+            {
+                "scope": "constant.numeric.arm",
+                "settings": {
+                    "foreground": "#D34AD8",
+                    "fontStyle": ""
+                }
+            },
+            {
+                "scope": "entity.name.label.arm",
+                "settings": {
+                    "foreground": "#FFD76A",
+                    "fontStyle": ""
+                }
+            },
+            {
+                "scope": "support.directive.arm",
+                "settings": {
+                    "foreground": "#FD4444",
+                    "fontStyle": ""
+                }
+            },
+            {
+                "scope": "displacement_op2.arm",
+                "settings": {
+                    "foreground": "#E8F348",
+                    "fontStyle": ""
+                }
+            }
+        ]
+    }
+}
